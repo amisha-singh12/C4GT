@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Amisha Kumari Singh</td>
+  </tr>
+  <tr>
+    <td>Github</td>
+    <td>https://github.com/amisha-singh12</td>
+  </tr>
+  <tr>
+    <td>Linkedin</td>
+    <td>www.linkedin.com/in/amisha-kumari-singh-002-15-connect</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>AITM ,Varanasi</td>
+  </tr>
+</table>
